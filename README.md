@@ -1,5 +1,5 @@
 # NumericalVertexWeightVisualizer
-![NumericalVertexWeightVisualizer Screenshot](images/numerical_vertex_weight_visualizer_1280x640.png)
+![NumericalVertexWeightVisualizer Screenshot](images/numerical_vertex_weight_visualizer_banner.png)
 
 Blender Add-On that displays selected Vertex Weight on the mesh numerically
 
