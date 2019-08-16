@@ -8,9 +8,24 @@ Tested in 2.8 Stable
 
 
 ## Installation
-Preferences -> Add-Ons 
+![](images/Installing_01.png)
 
-'View3D > Properties panel > Mesh Display tab (edit-mode)
+Edit -> Preferences -> Add-Ons 
+
+![](images/Installing_02.png)
+
+Install...
+
+![](images/Installing_03.png)
+
+Find add-on .py file
+
+![](images/Installing_04.png)
+
+Check add-on box in the list to activate
+
+## Usage
+'3D View > Properties panel > View tab
 
 ## Credits to:
 Bartius Crouch, 
