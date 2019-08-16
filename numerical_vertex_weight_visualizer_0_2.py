@@ -1,9 +1,9 @@
 bl_info = {
     'name': 'Weight Visualiser',
     'author': 'Bartius Crouch, CoDEmanX, hikariztw',
-    'version': (0, 0, 1),
+    'version': (0, 2, 0),
     'blender': (2, 80, 0),
-    'location': 'View3D > Properties panel > Mesh Display tab (edit-mode)',
+    'location': 'View3D > Properties panel > View tab',
     'category': '3D View'}
 
 
