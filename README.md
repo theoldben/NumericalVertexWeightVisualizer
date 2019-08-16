@@ -3,8 +3,10 @@
 
 Blender Add-On that displays selected Vertex Weight on the mesh numerically
 
-'View3D > Properties panel > Mesh Display tab (edit-mode)
 ![NumericalVertexWeightVisualizer in action](https://media.giphy.com/media/fYZdWsKYLJAHPNNvTo/giphy.gif)
+
+'View3D > Properties panel > Mesh Display tab (edit-mode)
+
 Credits to:
 Bartius Crouch, 
 CoDEmanX, 
